@@ -11,7 +11,7 @@
 
 [<img align="left" alt="ubarman262 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ubarman262 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+[<img align="left" alt="ubarman262 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 
 ### Languages and Tools:
@@ -57,3 +57,4 @@
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=ubarman262@gmail.com
