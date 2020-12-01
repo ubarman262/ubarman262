@@ -45,7 +45,7 @@
 
 [instagram]: https://www.instagram.com/__spacedout____
 [facebook]: https://www.facebook.com/ujjwalbarman3624
-[vscode]: _https://code.visualstudio.com/
+[vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/en/
 [angular]: https://angular.io/
 [springboot]: https://spring.io/projects/spring-boot
