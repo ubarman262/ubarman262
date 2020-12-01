@@ -1,6 +1,6 @@
-### Hi there, I'm Ujjwal 👋
+## Hi there, I'm Ujjwal 👋
 
-## I'm a Full-Stack Developer and a Tech enthusiast.
+### I'm a Full-Stack Developer and a Tech enthusiast.
 
 - 🌱 I’m currently learning ELK Stack.
 - 👯 I’m looking to collaborate with other
