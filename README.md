@@ -2,7 +2,7 @@
 
 ### I'm a Full-Stack Developer and a Tech enthusiast.
 
-- 🌱 I’m currently learning ELK Stack.
+- 🌱 I’m currently learning ELK Stack, VueJS, ReactJS
 - 👯 I’m looking to collaborate with other
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I enjoy making DIY projects
